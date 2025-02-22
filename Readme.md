@@ -102,6 +102,7 @@ Enabled face authentication even when wearing hats, glasses, wigs, or other disg
 
 
 - **Verification of network accuracy and stability according to changes in optimization function** 
+
 => Best choice in first-order function optimizer<br>
 <br>
 
