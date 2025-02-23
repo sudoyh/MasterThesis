@@ -4,6 +4,7 @@
 
 
 
+
 ---
 ---
 <br>
@@ -161,7 +162,7 @@ Enabled face authentication even when wearing hats, glasses, wigs, or other disg
 # Paper download
 
 
-[📄 Download Paper](https://github.com/yh/MasterThesis/yhimages/sample.pdf)
+[📄 Download Paper](https://github.com/yh/MasterThesis/yhimages/thesis.pdf)
 
 ---
 ---
